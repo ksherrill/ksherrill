@@ -1,4 +1,8 @@
-### Hi there 👋
+### I am a Research Scientist in the Center for Learning and Memory at the University of Texas at Austin. My research is focused on human memory and spatial cognition. 
+
+### I have developed several virtual reality (VR) environments to examine how humans learn and remember in naturalist environments: 
+
+### Further bespoke Python and Matlab code for analysis to come ...
 
 <!--
 **ksherrill/ksherrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
