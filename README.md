@@ -1,5 +1,5 @@
 # 
-I am a Senior Research Scientist in the Center for Learning and Memory at the University of Texas at Austin. My research uses structural and functional neuroimaging, virtual reality environments, and machine learning approaches to uncover novel insights into how people perceive where they are located in the world and use that knowledge to map their memories
+I am a Senior Research Scientist in the Center for Learning and Memory at the University of Texas at Austin. My research uses structural and functional neuroimaging, virtual reality environments, and machine learning approaches to uncover novel insights into how people perceive where they are located in the world and use that knowledge to map their memories.
 
 I have developed several virtual reality (VR) environments to examine how humans learn and remember in naturalistic environments: 
 - [Volt](https://github.com/prestonlab/volt-prep) - virtual object location task
